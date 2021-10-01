@@ -10,6 +10,7 @@ Game is over when part of the shake collide with boundary or eat themselve.
 
 2.Tetris
 Classic tetris game/ To rotate the figure press "Space", to move them press "ASD".
+
 ![image](https://user-images.githubusercontent.com/75786246/135596628-c7ec6d1c-1abf-44d7-b59b-c54dd06f5aec.png)
 
 3.Color Front
